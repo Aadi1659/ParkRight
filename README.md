@@ -17,8 +17,8 @@ The dataset was not available anywhere in the internet. So, I decided to make my
 The required Blender File has been uploaded.
 For reference, here is the video: <br>
 <video src="https://github.com/Aadi1659/ParkRight/assets/90966493/cb262af7-7a19-4089-b3c8-206e017fc441"/>
-<br>
-To Download the Dataset, use this link:
+
+### Download the dataset from here: 
 
 # How to run
 Install these libraries: open-cv, tensorflow, numpy, streamlit, csv and PIL installed.
