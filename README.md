@@ -18,7 +18,7 @@ The required Blender File has been uploaded.
 For reference, here is the video: <br>
 <video src="https://github.com/Aadi1659/ParkRight/assets/90966493/cb262af7-7a19-4089-b3c8-206e017fc441"/>
 
-### Download the dataset from here: 
+### Download the dataset from here: https://www.kaggle.com/datasets/onlyaadi/parkright/
 
 # How to run
 Install these libraries: open-cv, tensorflow, numpy, streamlit, csv and PIL installed.
