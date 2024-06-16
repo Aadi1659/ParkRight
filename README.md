@@ -2,7 +2,7 @@
 ParkRight is a software which accurately classifies the wrongly parked and correctly parked cars and also empty parked spaces.
 
 # Overview
-This project was built using Tensorflow using transfer learning. The main model used was EfficientNetB0 and was trained on approximately 19,000 images with around 6,500 images each of correct parking, wrong parking and empty parking.
+This project was built using Tensorflow using transfer learning. The main model used was EfficientNetB0 and was trained on 300 images with 100 images each of correct parking, wrong parking and empty parking.
 
 # The Project in Action
 Here is the video in which the project is being demonstrated: <br>
@@ -10,7 +10,7 @@ Here is the video in which the project is being demonstrated: <br>
 
 # Model
 Firstly, download the model from here:
-https://drive.google.com/drive/folders/14BdIEtjSl_r6Yia1Q5K5loProtbGSQfN?usp=sharing
+[https://drive.google.com/drive/folders/14BdIEtjSl_r6Yia1Q5K5loProtbGSQfN?usp=sharing](https://drive.google.com/drive/folders/1PicdSdQNITfuCegdOdwXcopW92kpVZ4R?usp=sharing)
 
 # Dataset
 The dataset was not available anywhere in the internet. So, I decided to make my own dataset. I used Blender3D to make a 3D model of the parking lot and got a free low poly model of a car. By using my Blender skills, I created 10 images each of correct, wrong and empty parking. 
